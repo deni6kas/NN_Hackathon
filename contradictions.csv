@@ -1,0 +1,974 @@
+﻿contradiction_id,node_id_1,node_id_2,relationship_type,description,conflicting_sources,resolution_status
+CONTR_1,,,contradicts,Противоречие между использованием боковых анкеров и их негативным влиянием на массив,Доклад_Румянцев А.Е.pdf,open
+CONTR_2,,,contradicts,,Доклад_Румянцев А.Е.pdf,open
+CONTR_3,,,contradicts,,НДС Комсомольский.pdf,open
+CONTR_4,,,contradicts,Разные нормативные документы и научные исследования принимают в качестве значения пиковой скорости V разные показатели.,Доклад_Федосеев А.В.pdf,open
+CONTR_5,,,contradicts,,Презентация для  научного совета.pptx,open
+CONTR_6,,,contradicts,Ограниченность справочной информации о свойствах соединений платиновых металлов,Презентация для  научного совета.pptx,open
+CONTR_7,,,contradicts,,Презентация Измерение НДС Техсовет.pdf,open
+CONTR_8,,,contradicts,Проблемы и сложности при измерениях методом overcoring,Презентация Измерение НДС Техсовет.pdf,open
+CONTR_9,,,contradicts,,Презентация Измерение НДС Техсовет.pdf,open
+CONTR_10,,,contradicts,,Прогнозирование_участков_концентрации_напряжений_в_массиве_горных.pptx,open
+CONTR_11,,,contradicts,Разные нормативные документы и научные исследования принимают в качестве значения пиковой скорости V разные показатели,Презентация Тяпкина ПА.pptx,open
+CONTR_12,,,contradicts,Природная нестационарность исходных геотехнических данных исключает возможность использования геостатистических методов интерполяции,Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf,open
+CONTR_13,,,contradicts,Противоречие в прогнозировании сейсмособытий малой энергии,Прогнозирование_участков_концентрации_напряжений_в_массиве_горных.pptx,open
+CONTR_14,,,contradicts,Влияние стального обсадного трубопровода на точность определения азимута,Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf,open
+CONTR_15,,,contradicts,Стандартные модули для обработки записей землетрясений в ПК SCAD Office и ЛИРА 10 не позволяют получить корректные сейсмограммы из инструментальных акселерограмм,Тяпкина ПА_Пермь_Зимняя школа.pdf,open
+CONTR_16,,,contradicts,Нет противоречий в предоставленном тексте.,ГП № 1-2024.pdf,open
+CONTR_17,,,contradicts,,ГП № 1-2024.pdf,open
+CONTR_18,,,contradicts,,ГП № 1-2024.pdf,open
+CONTR_19,,,contradicts,,ГП № 1-2024.pdf,open
+CONTR_20,,,contradicts,Нет противоречий,ГП № 1-2024.pdf,open
+CONTR_21,,,contradicts,,ГП № 1-2024.pdf,open
+CONTR_22,,,contradicts,,ГП № 1-2024.pdf,open
+CONTR_23,,,contradicts,,ГП № 1-2024.pdf,open
+CONTR_24,,,contradicts,Отсутствие отечественных нормативных подходов к использованию крупногабаритных шин (КГШ) в горной промышленности,ГП № 1-2024.pdf,open
+CONTR_25,,,contradicts,,ГП № 1-2024.pdf,open
+CONTR_26,,,contradicts,,ГП № 1-2024.pdf,open
+CONTR_27,,,contradicts,,ГП № 1-2024.pdf,open
+CONTR_28,,,contradicts,Определение содержания органического углерода требует сложных лабораторных анализов,ГП № 1-2024.pdf,open
+CONTR_29,,,contradicts,,ГП № 1-2024.pdf,open
+CONTR_30,,,contradicts,,ГП № 1-2024.pdf,open
+CONTR_31,,,contradicts,"Выбор минимального значения наработки до отказа не оправдан экономически, а выбор максимального увеличивает вероятность аварийного отказа",ГП № 1-2024.pdf,open
+CONTR_32,,,contradicts,Существующие методики определения межремонтного периода не учитывают влияния горнотехнических условий функционирования техники.,ГП № 1-2024.pdf,open
+CONTR_33,,,contradicts,,ГП № 1-2024.pdf,open
+CONTR_34,,,contradicts,Вопросы оценки минимального промышленного и бортового содержания ценных компонентов и вредных примесей в рудах при переходе на циклично-поточную технологию остаются недостаточно изученными.,ГП № 1-2024.pdf,open
+CONTR_35,,,contradicts,,ГП № 1-2024.pdf,open
+CONTR_36,,,contradicts,,ГП № 1-2024.pdf,open
+CONTR_37,,,contradicts,,ГП № 1-2024.pdf,open
+CONTR_38,,,contradicts,,ГП № 1-2024.pdf,open
+CONTR_39,,,contradicts,,ГП № 1-2024.pdf,open
+CONTR_40,,,contradicts,,ГП № 1-2024.pdf,open
+CONTR_41,,,contradicts,"Противоречие между необходимостью развития золотодобывающей отрасли и сдерживающими факторами, такими как плоская шкала корпоративных налогов",ГП № 1-2024.pdf,open
+CONTR_42,,,contradicts,,ГП № 1-2024.pdf,open
+CONTR_43,,,contradicts,,ГП № 1-2024.pdf,open
+CONTR_44,,,contradicts,Противоречие в способности диатомитов адсорбировать тяжёлые металлы,ГП № 1-2024.pdf,open
+CONTR_45,,,contradicts,Противоречий в тексте не обнаружено.,ГП № 1-2024.pdf,open
+CONTR_46,,,contradicts,,ГП № 1-2024.pdf,open
+CONTR_47,,,contradicts,,ГП № 1-2024.pdf,open
+CONTR_48,,,contradicts,Влияние скорости нагружения на прочность скальных пород,ГП № 1-2024.pdf,open
+CONTR_49,,,contradicts,Отсутствие противоречий в представленном тексте.,ГП № 1-2024.pdf,open
+CONTR_50,,,contradicts,,ГП № 1-2024.pdf,open
+CONTR_51,,,contradicts,,ГП № 1-2024.pdf,open
+CONTR_52,,,contradicts,нет противоречий,ГП № 1-2024.pdf,open
+CONTR_53,,,contradicts,,ГП № 1-2024.pdf,open
+CONTR_54,,,contradicts,,ГП № 1-2024.pdf,open
+CONTR_55,,,contradicts,Меньшие потери при валовой отработке пластов приводят к значительному увеличению разубоживания угля.,ГП № 1-2024.pdf,open
+CONTR_56,,,contradicts,Изменение геометрии футеровок нижнего ряда чаши дробилок,ГП № 1-2024.pdf,open
+CONTR_57,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_58,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_59,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_60,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_61,,,contradicts,Изначально результаты тестовой эксплуатации шин Triangle были неоднозначными,ГП № 2-2024.pdf,open
+CONTR_62,,,contradicts,Отсутствие необходимых функций в программном обеспечении Micromine,ГП № 2-2024.pdf,open
+CONTR_63,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_64,,,contradicts,Нет информации о противоречиях,ГП № 2-2024.pdf,open
+CONTR_65,,,contradicts,Противоречия в подходах к разработке АСУ,ГП № 2-2024.pdf,open
+CONTR_66,,,contradicts,Конкуренция на рынке редукторов в России,ГП № 2-2024.pdf,open
+CONTR_67,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_68,,,contradicts,Противоречия между самостоятельными разработками и обращением к вендору,ГП № 2-2024.pdf,open
+CONTR_69,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_70,,,contradicts,Проблемы с сертификацией комплектующих,ГП № 2-2024.pdf,open
+CONTR_71,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_72,,,contradicts,Отсутствие готовых эффективных решений по регенерации некондиционных эмульсионных матриц в России,ГП № 2-2024.pdf,open
+CONTR_73,,,contradicts,Отсутствие законодательно закрепленной утилизации эмульсионной матрицы в Российской Федерации,ГП № 2-2024.pdf,open
+CONTR_74,,,contradicts,Нет противоречий в статье,ГП № 2-2024.pdf,open
+CONTR_75,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_76,,,contradicts,"Ходимость шин из дружественных стран меньше, чем у проверенных импортных брендов",ГП № 2-2024.pdf,open
+CONTR_77,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_78,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_79,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_80,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_81,,,contradicts,Сопротивление руководителей производственных подразделений организации деятельности по формированию контуров контроля технологического процесса,ГП № 2-2024.pdf,open
+CONTR_82,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_83,,,contradicts,Проблемы при использовании компримированного природного газа в условиях экстремально низких температур,ГП № 2-2024.pdf,open
+CONTR_84,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_85,,,contradicts,Отсутствие технических решений для использования газобаллонного оборудования в условиях переменных термобарических условий,ГП № 2-2024.pdf,open
+CONTR_86,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_87,,,contradicts,Общепринятый подход к учёту местных сопротивлений требует уточнения с учётом существующих условий ведения горных работ.,ГП № 2-2024.pdf,open
+CONTR_88,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_89,,,contradicts,Нет противоречий,ГП № 2-2024.pdf,open
+CONTR_90,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_91,,,contradicts,Необходимость пересмотра допущений о местных сопротивлениях в угольных шахтах,ГП № 2-2024.pdf,open
+CONTR_92,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_93,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_94,,,contradicts,Противоречий в тексте не обнаружено,ГП № 2-2024.pdf,open
+CONTR_95,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_96,,,contradicts,Фактический угол растекания сгущенных хвостов отличается от проектного,ГП № 2-2024.pdf,open
+CONTR_97,,,contradicts,Редкая замена насоса может привести к значительному увеличению расхода топлива и снижению производительности экскаватора,ГП № 2-2024.pdf,open
+CONTR_98,,,contradicts,Отсутствие методов установления оптимальных наработок между заменами насосов гидравлического экскаватора,ГП № 2-2024.pdf,open
+CONTR_99,,,contradicts,Изменение реологических параметров сгущенных хвостов в зависимости от места отбора проб,ГП № 2-2024.pdf,open
+CONTR_100,,,contradicts,Противоречий в тексте не обнаружено,ГП № 2-2024.pdf,open
+CONTR_101,,,contradicts,"Несоответствие параметров, создаваемых намывом искусственных массивов, по сравнению с проектными решениями",ГП № 2-2024.pdf,open
+CONTR_102,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_103,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_104,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_105,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_106,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_107,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_108,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_109,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_110,,,contradicts,Необходимость учета особенностей технологии изготовления деталей соединений и специфики применяемых материалов при разработке предложений по повышению ресурса рабочих колес и других быстроизнашиваемых элементов.,ГП № 2-2024.pdf,open
+CONTR_111,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_112,,,contradicts,,ГП № 2-2024.pdf,open
+CONTR_113,,,contradicts,Противоречия в данных о выбросах СО2,ГП № 2-2024.pdf,open
+CONTR_114,,,contradicts,Противоречия между владельцем ресурса и инвестором по поводу оценки стоимости месторождения и распределения доходов,ГП № 2-2024.pdf,open
+CONTR_115,,,contradicts,"Отсутствие правовых норм выделения, расчёта, определения границ горной ренты и её составляющих типов.",ГП № 2-2024.pdf,open
+CONTR_116,,,contradicts,Противоречие в оценках ассимиляционного потенциала лесных экосистем,ГП № 2-2024.pdf,open
+CONTR_117,,,contradicts,"Противоречие между стоимостной оценкой стоимости капитала и премии за капитал и приростом запасов, ростом цены на продукт, окупаемостью капитала, ростом производства и производительности",ГП № 2-2024.pdf,open
+CONTR_118,,,contradicts,"Противоречие между системой окупаемости капитала и системой кодов западного типа, которая оценивает резервы как часть ресурсов, извлекаемых при экономической приемлемости.",ГП № 2-2024.pdf,open
+CONTR_119,,,contradicts,Отсутствие общепризнанного мнения о горной ренте и её распределении.,ГП № 2-2024.pdf,open
+CONTR_120,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_121,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_122,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_123,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_124,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_125,,,contradicts,Нет противоречий в предоставленном тексте.,ГП № 3-2024.pdf,open
+CONTR_126,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_127,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_128,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_129,,,contradicts,Ограничение области применения устройств выявления повреждённой фазы,ГП № 3-2024.pdf,open
+CONTR_130,,,contradicts,Ограниченность защитной функции коммутационного устройства,ГП № 3-2024.pdf,open
+CONTR_131,,,contradicts,Нет противоречий в тексте,ГП № 3-2024.pdf,open
+CONTR_132,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_133,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_134,,,contradicts,Противоречие между стремлением свести габариты и металлоемкость ДПУ к минимуму и риском «подпрессовки» дробилки рудой из разгрузочного бункера,ГП № 3-2024.pdf,open
+CONTR_135,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_136,,,contradicts,Нет противоречий,ГП № 3-2024.pdf,open
+CONTR_137,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_138,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_139,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_140,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_141,,,contradicts,"Преобразование Фурье не обеспечивает информацией о тренде изменения частотных параметров со временем, что необходимо для прогнозных оценок.",ГП № 3-2024.pdf,open
+CONTR_142,,,contradicts,Сложности применения искусственных нейронных сетей в анализе сигналов,ГП № 3-2024.pdf,open
+CONTR_143,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_144,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_145,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_146,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_147,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_148,,,contradicts,Определение объема цифровых технологий для внедрения,ГП № 3-2024.pdf,open
+CONTR_149,,,contradicts,Оценка экономической целесообразности цифровизации может быть затруднена из-за множества факторов.,ГП № 3-2024.pdf,open
+CONTR_150,,,contradicts,Влияние человеческого фактора на качество компонентов взрывчатого вещества,ГП № 3-2024.pdf,open
+CONTR_151,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_152,,,contradicts,нет противоречий,ГП № 3-2024.pdf,open
+CONTR_153,,,contradicts,Противоречия в трактовке термина 'геоинформатика'.,ГП № 3-2024.pdf,open
+CONTR_154,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_155,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_156,,,contradicts,Недостаточность информации о месторождении может привести к снижению ожидаемых технико-экономических показателей проекта,ГП № 3-2024.pdf,open
+CONTR_157,,,contradicts,Недостаточность знаний о месторождении ведет к неопределенности и риску недостижения проектных показателей.,ГП № 3-2024.pdf,open
+CONTR_158,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_159,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_160,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_161,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_162,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_163,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_164,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_165,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_166,,,contradicts,Влияние экологических требований на производство оксида магния в Китае,ГП № 3-2024.pdf,open
+CONTR_167,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_168,,,contradicts,Ограниченные возможности добычи природного магнезитового сырья и необходимость использования альтернативных техногенных источников сырья.,ГП № 3-2024.pdf,open
+CONTR_169,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_170,,,contradicts,Противоречия в углах наклона траектории отработки забоя для механических лопат,ГП № 3-2024.pdf,open
+CONTR_171,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_172,,,contradicts,Проблемы развития угольной компании,ГП № 3-2024.pdf,open
+CONTR_173,,,contradicts,,ГП № 3-2024.pdf,open
+CONTR_174,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_175,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_176,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_177,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_178,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_179,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_180,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_181,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_182,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_183,,,contradicts,Срыв поставок техники иностранными поставщиками,ГП № 4-2024.pdf,open
+CONTR_184,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_185,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_186,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_187,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_188,,,contradicts,Проблема высоких температур в шахтах,ГП № 4-2024.pdf,open
+CONTR_189,,,contradicts,Противоречие между использованием традиционных и новых источников энергии.,ГП № 4-2024.pdf,open
+CONTR_190,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_191,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_192,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_193,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_194,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_195,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_196,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_197,,,contradicts,Отсутствие информации о конкретных технологиях и их эффективности,ГП № 4-2024.pdf,open
+CONTR_198,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_199,,,contradicts,Нет противоречий,ГП № 4-2024.pdf,open
+CONTR_200,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_201,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_202,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_203,,,contradicts,Связь между частотой схода оползней и площадью водосбора не обнаружена.,ГП № 4-2024.pdf,open
+CONTR_204,,,contradicts,Отсутствие требований к элементарному расчёту естественного проветривания в ФНиП,ГП № 4-2024.pdf,open
+CONTR_205,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_206,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_207,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_208,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_209,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_210,,,contradicts,Противоречие между необходимостью водопонижения и его негативным воздействием на окружающую среду.,ГП № 4-2024.pdf,open
+CONTR_211,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_212,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_213,,,contradicts,Нет противоречий,ГП № 4-2024.pdf,open
+CONTR_214,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_215,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_216,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_217,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_218,,,contradicts,Не выявлена прямая зависимость между температурой пород и концентрацией оксида углерода.,ГП № 4-2024.pdf,open
+CONTR_219,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_220,,,contradicts,Отсутствие четкой зависимости между температурой пород и концентрацией оксида углерода,ГП № 4-2024.pdf,open
+CONTR_221,,,contradicts,Отсутствие прямой зависимости между температурой пород и концентрацией выделяющегося оксида углерода,ГП № 4-2024.pdf,open
+CONTR_222,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_223,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_224,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_225,,,contradicts,Сложность определения генезиса провалов в регионах с развитой горнодобывающей промышленностью,ГП № 4-2024.pdf,open
+CONTR_226,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_227,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_228,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_229,,,contradicts,Противоречие между расчетными размерами зон необратимых деформаций и экспериментальными данными,ГП № 4-2024.pdf,open
+CONTR_230,,,contradicts,Нет противоречий,ГП № 4-2024.pdf,open
+CONTR_231,,,contradicts,Эффективность цифровых решений в горном производстве,ГП № 4-2024.pdf,open
+CONTR_232,,,contradicts,Сложность перехода на удаленное управление,ГП № 4-2024.pdf,open
+CONTR_233,,,contradicts,Условность разделения проекта на этапы,ГП № 4-2024.pdf,open
+CONTR_234,,,contradicts,,ГП № 4-2024.pdf,open
+CONTR_235,,,contradicts,Нет противоречий,ГП № 4-2024.pdf,open
+CONTR_236,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_237,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_238,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_239,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_240,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_241,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_242,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_243,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_244,,,contradicts,Противоречия в классификациях прочностных свойств горных пород,ГП № 5-2024.pdf,open
+CONTR_245,,,contradicts,Результаты расчета скорости детонации ЭВВ оказываются завышенными либо существенно заниженными по отношению к экспериментально измеренным значениям.,ГП № 5-2024.pdf,open
+CONTR_246,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_247,,,contradicts,Отсутствие единых принципов в организации АСУ и различные типы ЭВМ вызывают несовместимость ПО,ГП № 5-2024.pdf,open
+CONTR_248,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_249,,,contradicts,Противоречие между системами разработки,ГП № 5-2024.pdf,open
+CONTR_250,,,contradicts,Противоречия в параметрах временного предохранительного целика на рудниках «Мир» и «Пионер»,ГП № 5-2024.pdf,open
+CONTR_251,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_252,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_253,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_254,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_255,,,contradicts,Низкая заинтересованность в переработке отходов,ГП № 5-2024.pdf,open
+CONTR_256,,,contradicts,"Зарубежные страны обладают меньшими территориями и высокой плотностью населения, в отличие от России, где отходы часто находятся далеко от глаз общественности и не вызывают беспокойства.",ГП № 5-2024.pdf,open
+CONTR_257,,,contradicts,Низкая заинтересованность в переработке или использовании промышленных отходов,ГП № 5-2024.pdf,open
+CONTR_258,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_259,,,contradicts,Существующие подходы к определению зон наведенной трещиноватости являются весьма ориентировочными и не учитывают глубину расположения взрываемого заряда.,ГП № 5-2024.pdf,open
+CONTR_260,,,contradicts,Противоречия между различными моделями для оценки зон разрушения вокруг удлиненного скважинного заряда.,ГП № 5-2024.pdf,open
+CONTR_261,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_262,,,contradicts,Отсутствие единого представления о механизме разрушения среды при взрыве,ГП № 5-2024.pdf,open
+CONTR_263,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_264,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_265,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_266,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_267,,,contradicts,Низкий уровень осведомленности о проектах и инициативах в области экологии среди респондентов.,ГП № 5-2024.pdf,open
+CONTR_268,,,contradicts,Противоречие между устойчивостью связи инновационности с этнокультурным фактором и возможностью его купирования при целенаправленной работе.,ГП № 5-2024.pdf,open
+CONTR_269,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_270,,,contradicts,"Различия в оценках запасов нефти, полученных разными методами",ГП № 5-2024.pdf,open
+CONTR_271,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_272,,,contradicts,Расхождения между прогнозируемыми и реальными запасами нефти при использовании объемного метода.,ГП № 5-2024.pdf,open
+CONTR_273,,,contradicts,Различия в оценках запасов нефти при применении объёмного метода,ГП № 5-2024.pdf,open
+CONTR_274,,,contradicts,Нет противоречий в тексте.,ГП № 5-2024.pdf,open
+CONTR_275,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_276,,,contradicts,Нет противоречий в тексте,ГП № 5-2024.pdf,open
+CONTR_277,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_278,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_279,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_280,,,contradicts,Противоречий в тексте не обнаружено,ГП № 5-2024.pdf,open
+CONTR_281,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_282,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_283,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_284,,,contradicts,Неясность генезиса ДКП-2019,ГП № 5-2024.pdf,open
+CONTR_285,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_286,,,contradicts,Отсутствие однозначных объяснений резкого роста изменений площади провала в четвертый год измерений,ГП № 5-2024.pdf,open
+CONTR_287,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_288,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_289,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_290,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_291,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_292,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_293,,,contradicts,Противоречий в тексте не обнаружено.,ГП № 5-2024.pdf,open
+CONTR_294,,,contradicts,Отсутствие апробированных методик и рекомендаций по оценке режимов работы карьерных экскаваторов в Узбекистане,ГП № 5-2024.pdf,open
+CONTR_295,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_296,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_297,,,contradicts,Противоречие в представлениях о структуре угольных пластов,ГП № 5-2024.pdf,open
+CONTR_298,,,contradicts,Свойства и признаки в рекомендациях не отражают свойств газодинамической опасности.,ГП № 5-2024.pdf,open
+CONTR_299,,,contradicts,Противоречие в достоверности определения свойств угля в пласте,ГП № 5-2024.pdf,open
+CONTR_300,,,contradicts,Противоречие в определении газодинамического явления и горного удара,ГП № 5-2024.pdf,open
+CONTR_301,,,contradicts,Противоречие между теоретическими концепциями и применяемыми методами предотвращения газодинамических явлений,ГП № 5-2024.pdf,open
+CONTR_302,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_303,,,contradicts,"Противоречие между существующими представлениями о газодинамических явлениях и новой гипотезой, сформулированной в статье.",ГП № 5-2024.pdf,open
+CONTR_304,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_305,,,contradicts,,ГП № 5-2024.pdf,open
+CONTR_306,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_307,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_308,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_309,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_310,,,contradicts,Проблема недостаточного наполнения ковшей при различных траекториях движения экскаватора,ГП № 6-2024.pdf,open
+CONTR_311,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_312,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_313,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_314,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_315,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_316,,,contradicts,Противоречий в тексте не обнаружено,ГП № 6-2024.pdf,open
+CONTR_317,,,contradicts,Противоречие в подходах к моделированию загрязнения атмосферы карьерного пространства,ГП № 6-2024.pdf,open
+CONTR_318,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_319,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_320,,,contradicts,Ограничения использования спутниковых снимков среднего пространственного разрешения для мониторинга динамики восстановления природных экосистем вблизи горнопромышленных объектов,ГП № 6-2024.pdf,open
+CONTR_321,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_322,,,contradicts,Противоречие между ожидаемым уменьшением даты максимальной вегетации из-за потепления климата и фактическим увеличением даты на большинстве мониторинговых полигонов,ГП № 6-2024.pdf,open
+CONTR_323,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_324,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_325,,,contradicts,Неполное химическое превращение и неустойчивая детонация современных ПВВ при производстве взрывных работ в реальных условиях горного производства.,ГП № 6-2024.pdf,open
+CONTR_326,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_327,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_328,,,contradicts,Влияние увеличения веса единовременно взрываемого ПВВ на нагрузку на атмосферу,ГП № 6-2024.pdf,open
+CONTR_329,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_330,,,contradicts,Противоречия в научных взглядах на торфяную науку и технику,ГП № 6-2024.pdf,open
+CONTR_331,,,contradicts,Разные способы добычи торфа имеют свои преимущества и недостатки,ГП № 6-2024.pdf,open
+CONTR_332,,,contradicts,Существующие критерии и методы прогноза опасности горных ударов недостаточно надежны.,ГП № 6-2024.pdf,open
+CONTR_333,,,contradicts,Нет противоречий в тексте,ГП № 6-2024.pdf,open
+CONTR_334,,,contradicts,Сложность прогнозирования удароопасности массива горных пород месторождения,ГП № 6-2024.pdf,open
+CONTR_335,,,contradicts,Отсутствие первичных данных испытаний и координат отобранных проб для многих месторождений,ГП № 6-2024.pdf,open
+CONTR_336,,,contradicts,Зависимость удароопасности от прочности горных пород,ГП № 6-2024.pdf,open
+CONTR_337,,,contradicts,Неэффективность текущего подхода к нормированию периодичности капитального ремонта,ГП № 6-2024.pdf,open
+CONTR_338,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_339,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_340,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_341,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_342,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_343,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_344,,,contradicts,Необходимость маневрирования техническими параметрами БВР в пределах одного месторождения,ГП № 6-2024.pdf,open
+CONTR_345,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_346,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_347,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_348,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_349,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_350,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_351,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_352,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_353,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_354,,,contradicts,Снижение скорости детонации относительно заявленных характеристик,ГП № 6-2024.pdf,open
+CONTR_355,,,contradicts,"Отсутствие сравнительных исследований взрывчатых свойств ПЭВВ, получаемых на основе эмульсионных кондиционных полуфабрикатов и полученных из регенератов",ГП № 6-2024.pdf,open
+CONTR_356,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_357,,,contradicts,Выбор между максимизирующим и усредняющим пулингом зависит от конкретной задачи и типа угольных пород,ГП № 6-2024.pdf,open
+CONTR_358,,,contradicts,использование концентрированной соляной кислоты требует дополнительных мер по защите от агрессивного воздействия,ГП № 6-2024.pdf,open
+CONTR_359,,,contradicts,Неверно подобранные растворы ПАВ могут снижать эффективность разупрочняющих процессов или оказывать противоположное действие,ГП № 6-2024.pdf,open
+CONTR_360,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_361,,,contradicts,Нет противоречий,ГП № 6-2024.pdf,open
+CONTR_362,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_363,,,contradicts,Противоречия между необходимостью использования угля для выработки теплоэнергии и негативным влиянием этого процесса на окружающую среду.,ГП № 6-2024.pdf,open
+CONTR_364,,,contradicts,Противоречий в тексте не обнаружено,ГП № 6-2024.pdf,open
+CONTR_365,,,contradicts,Необходимость корректировки схем углеснабжения в арктических территориях,ГП № 6-2024.pdf,open
+CONTR_366,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_367,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_368,,,contradicts,"Планы по лесовосстановлению выполняются на 100%, но являются несопоставимо маленькими относительно требуемых объёмов",ГП № 6-2024.pdf,open
+CONTR_369,,,contradicts,Нормативные потери и пылевидные выбросы от угольной продукции не всегда отражают фактические показатели.,ГП № 6-2024.pdf,open
+CONTR_370,,,contradicts,Неполное использование потенциала лесных ресурсов Тувы.,ГП № 6-2024.pdf,open
+CONTR_371,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_372,,,contradicts,"Необходимость разработки устройства для натяжения АК, адаптированного к условиям выполнения работ в шахте",ГП № 6-2024.pdf,open
+CONTR_373,,,contradicts,Нет противоречий,ГП № 6-2024.pdf,open
+CONTR_374,,,contradicts,Невозможность выделения тонкой фракции посредством пневмосепарации при перевалке рудной массы с повышенной влажностью,ГП № 6-2024.pdf,open
+CONTR_375,,,contradicts,"Автор признает, что подобные исследования были проведены только в одной скважине и на одной площади, что позволяет говорить о получении только предположительного количественного результата.",ГП № 6-2024.pdf,open
+CONTR_376,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_377,,,contradicts,Фактическая несущая способность открытого ствола часто оказывается выше расчётной величины гидроразрыва пород,ГП № 6-2024.pdf,open
+CONTR_378,,,contradicts,Отсутствие единого определения BigData в горном деле,ГП № 6-2024.pdf,open
+CONTR_379,,,contradicts,,ГП № 6-2024.pdf,open
+CONTR_380,,,contradicts,Нет противоречий,ГП № 6-2024.pdf,open
+CONTR_381,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_382,,,contradicts,"Санкции привели к прекращению поставок западной карьерной техники, но некоторые поставщики продолжили свою деятельность, ограничив свои возможности.",ГП № 1-2025.pdf,open
+CONTR_383,,,contradicts,Инертность и консерватизм системы высшего образования противоречат стремительному развитию интеллектуальных систем управления и цифровой трансформации.,ГП № 1-2025.pdf,open
+CONTR_384,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_385,,,contradicts,"Предполагалось, что с углублением карьера затраты будут снижаться, но практически это предположение не подтвердилось.",ГП № 1-2025.pdf,open
+CONTR_386,,,contradicts,"Правило Л.Д. Шевякова, разработанное для подземных работ, имеет свои ограничения для карьерных условий",ГП № 1-2025.pdf,open
+CONTR_387,,,contradicts,Противоречия в оценке запасов алмазов на месторождении трубки Мир,ГП № 1-2025.pdf,open
+CONTR_388,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_389,,,contradicts,Форма рудного тела на глубоких горизонтах,ГП № 1-2025.pdf,open
+CONTR_390,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_391,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_392,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_393,,,contradicts,Отсутствие единой методики сбора данных для угольных месторождений,ГП № 1-2025.pdf,open
+CONTR_394,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_395,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_396,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_397,,,contradicts,Ограничение скорости движения вызывает дискуссии,ГП № 1-2025.pdf,open
+CONTR_398,,,contradicts,Противоречие между применяемыми нормативными инструкциями и рекомендациями по безопасному ведению горных работ и необходимостью изменения парадигмы приращения знаний о технологических причинах горных ударов и внезапных выбросов метана из угольного пласта.,ГП № 1-2025.pdf,open
+CONTR_399,,,contradicts,Противоречие в определении места горного удара,ГП № 1-2025.pdf,open
+CONTR_400,,,contradicts,Противоречие в определении коэффициента удароопасности угольных пластов,ГП № 1-2025.pdf,open
+CONTR_401,,,contradicts,Противоречие в определении причин горных ударов и выбросов метана,ГП № 1-2025.pdf,open
+CONTR_402,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_403,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_404,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_405,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_406,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_407,,,contradicts,Противоречий в тексте не обнаружено,ГП № 1-2025.pdf,open
+CONTR_408,,,contradicts,Хрупкость теплоизоляционного покрытия из льда требует контроля качества при намораживании и эксплуатации,ГП № 1-2025.pdf,open
+CONTR_409,,,contradicts,Противоречие между восприятием необходимости процедуры выдачи наряда и её фактическим применением,ГП № 1-2025.pdf,open
+CONTR_410,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_411,,,contradicts,Нет противоречий,ГП № 1-2025.pdf,open
+CONTR_412,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_413,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_414,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_415,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_416,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_417,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_418,,,contradicts,Противоречий в тексте не обнаружено,ГП № 1-2025.pdf,open
+CONTR_419,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_420,,,contradicts,Большинство существующих моделей ориентировано на решение узкоспециализированных задач и не обеспечивает комплексной оптимизации транспортных процессов,ГП № 1-2025.pdf,open
+CONTR_421,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_422,,,contradicts,Противоречие между коммерческой выгодой и повышением энергобезопасности труднодоступных территорий при освоении месторождений,ГП № 1-2025.pdf,open
+CONTR_423,,,contradicts,Отсутствие значимых альтернатив твёрдому топливу в арктических районах Якутии,ГП № 1-2025.pdf,open
+CONTR_424,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_425,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_426,,,contradicts,Разночтения в понимании концепции синергетического управления,ГП № 1-2025.pdf,open
+CONTR_427,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_428,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_429,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_430,,,contradicts,Отсутствие своевременных мер по предотвращению притока воды привело к неконтролируемому притоку рассолов на руднике Березниковского рудоуправления №1 ОАО «Уралкалий»,ГП № 1-2025.pdf,open
+CONTR_431,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_432,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_433,,,contradicts,Отсутствие целостных методик построения МАС для оптимизации всего цикла вскрышных работ с учетом принципов устойчивого развития.,ГП № 1-2025.pdf,open
+CONTR_434,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_435,,,contradicts,Противоречия в применении ГМО в горнодобывающей сфере,ГП № 1-2025.pdf,open
+CONTR_436,,,contradicts,Нет противоречий,ГП № 1-2025.pdf,open
+CONTR_437,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_438,,,contradicts,,ГП № 1-2025.pdf,open
+CONTR_439,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_440,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_441,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_442,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_443,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_444,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_445,,,contradicts,Снижение эффективности бурения в России и рост в США,ГП № 2-2025.pdf,open
+CONTR_446,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_447,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_448,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_449,,,contradicts,Отсутствие единой системы учета данных по количеству и причинам несчастных случаев на производстве в угольной отрасли,ГП № 2-2025.pdf,open
+CONTR_450,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_451,,,contradicts,Нет противоречий в тексте,ГП № 2-2025.pdf,open
+CONTR_452,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_453,,,contradicts,Проблема накопления солеотходов при разработке месторождений калийных и магниевых солей,ГП № 2-2025.pdf,open
+CONTR_454,,,contradicts,Нет противоречий,ГП № 2-2025.pdf,open
+CONTR_455,,,contradicts,Сравнение технологии формирования монолитного закладочного массива и технологии транспортирования гидропульпы по трубопроводу,ГП № 2-2025.pdf,open
+CONTR_456,,,contradicts,Отсутствие консенсусных оценок эффектов внедрения новых технологий в угольной промышленности.,ГП № 2-2025.pdf,open
+CONTR_457,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_458,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_459,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_460,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_461,,,contradicts,Разница между натурно и лабораторно определенными скоростями,ГП № 2-2025.pdf,open
+CONTR_462,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_463,,,contradicts,Противоречий в тексте не обнаружено,ГП № 2-2025.pdf,open
+CONTR_464,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_465,,,contradicts,Разночтения в терминологии и трактовках ключевых понятий облачных вычислений применительно к специфике горного дела,ГП № 2-2025.pdf,open
+CONTR_466,,,contradicts,Нет противоречий,ГП № 2-2025.pdf,open
+CONTR_467,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_468,,,contradicts,Низкие дебиты метана и высокие материальные затраты на реализацию способов дегазации угольных пластов,ГП № 2-2025.pdf,open
+CONTR_469,,,contradicts,Практическое применение нейронных сетей для вибродиагностики горного оборудования сопряжено с рядом нерешенных проблем.,ГП № 2-2025.pdf,open
+CONTR_470,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_471,,,contradicts,Методологические ограничения результатов,ГП № 2-2025.pdf,open
+CONTR_472,,,contradicts,Отсутствие единых стандартов оценки точности и эффективности моделей прогнозирования смещения грунта.,ГП № 2-2025.pdf,open
+CONTR_473,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_474,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_475,,,contradicts,Недостаточная проработка процессов трансфера теплоты с помощью геотермальных термосифонов,ГП № 2-2025.pdf,open
+CONTR_476,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_477,,,contradicts,Медленные темпы почвообразования и необходимость увеличения темпов рекультивации,ГП № 2-2025.pdf,open
+CONTR_478,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_479,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_480,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_481,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_482,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_483,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_484,,,contradicts,Неопределённость в отношении реального влияния цифровых технологий на показатели операционной деятельности горнодобывающих предприятий,ГП № 2-2025.pdf,open
+CONTR_485,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_486,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_487,,,contradicts,Нет противоречий в тексте,ГП № 2-2025.pdf,open
+CONTR_488,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_489,,,contradicts,Нет противоречий,ГП № 2-2025.pdf,open
+CONTR_490,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_491,,,contradicts,Нет противоречий,ГП № 2-2025.pdf,open
+CONTR_492,,,contradicts,Отсутствие единого понятийного аппарата в сфере цифровизации горного дела,ГП № 2-2025.pdf,open
+CONTR_493,,,contradicts,Большинство исследований носят узконаправленный характер,ГП № 2-2025.pdf,open
+CONTR_494,,,contradicts,Практически не изучены возможности применения распределенных систем управления для литиевых месторождений,ГП № 2-2025.pdf,open
+CONTR_495,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_496,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_497,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_498,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_499,,,contradicts,недостаточно изучены возможности интеграции СНС и рой-ориентированных методов в рамках единой системы картирования,ГП № 2-2025.pdf,open
+CONTR_500,,,contradicts,слабо исследованы экономические и экологические эффекты внедрения автоматизированных решений в реальных условиях геологоразведочных проектов,ГП № 2-2025.pdf,open
+CONTR_501,,,contradicts,,ГП № 2-2025.pdf,open
+CONTR_502,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_503,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_504,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_505,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_506,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_507,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_508,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_509,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_510,,,contradicts,Ограничения возможностей буровых станков открытого типа не позволили в полной мере реализовать трехъярусную открыто-подземную разработку месторождений КМА.,ГП № 3-2025.pdf,open
+CONTR_511,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_512,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_513,,,contradicts,Различия во мнениях специалистов о сроках перехода на роботизированную технику.,ГП № 3-2025.pdf,open
+CONTR_514,,,contradicts,Традиционные методы определения вертикальности зданий неэффективны и не соответствуют требованиям строительства.,ГП № 3-2025.pdf,open
+CONTR_515,,,contradicts,Противоречий в тексте не обнаружено.,ГП № 3-2025.pdf,open
+CONTR_516,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_517,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_518,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_519,,,contradicts,В горнодобывающей отрасли остаются нерешенными вопросы организации исследований рынка в технологической сфере,ГП № 3-2025.pdf,open
+CONTR_520,,,contradicts,Слабая корреляция между внедрением экологичных технологий и финансовыми показателями,ГП № 3-2025.pdf,open
+CONTR_521,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_522,,,contradicts,Нет противоречий,ГП № 3-2025.pdf,open
+CONTR_523,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_524,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_525,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_526,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_527,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_528,,,contradicts,"Несмотря на исследования процессов соударения и машин ударного действия, практическое применение этих исследований в существующих гидромолотах не нашло",ГП № 3-2025.pdf,open
+CONTR_529,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_530,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_531,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_532,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_533,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_534,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_535,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_536,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_537,,,contradicts,Вероятность невыполнения договорных обязательств по поставке угля,ГП № 3-2025.pdf,open
+CONTR_538,,,contradicts,Низкая эффективность производства вскрышных работ с помощью транспортно-отвального комплекса,ГП № 3-2025.pdf,open
+CONTR_539,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_540,,,contradicts,Разночтение в определении «эффективности обучения»,ГП № 3-2025.pdf,open
+CONTR_541,,,contradicts,Изменчивость физико-механических свойств горных пород и внешних воздействий,ГП № 3-2025.pdf,open
+CONTR_542,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_543,,,contradicts,Вопросы возникновения трещин растяжения и сдвига в скальных крепях применительно к контролю их несущей способности для обеспечения безопасности горных работ изучены недостаточно.,ГП № 3-2025.pdf,open
+CONTR_544,,,contradicts,Вариабельность физико-механических свойств горных пород и воздействий на них предопределяет необходимость продолжения исследований.,ГП № 3-2025.pdf,open
+CONTR_545,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_546,,,contradicts,"Существуют различные мнения по поводу распределения разноразмерных кусков в развале, в том числе и негабарита.",ГП № 3-2025.pdf,open
+CONTR_547,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_548,,,contradicts,Ограниченная применимость ситового анализа для производственных взрывных работ,ГП № 3-2025.pdf,open
+CONTR_549,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_550,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_551,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_552,,,contradicts,Противоречий в тексте не обнаружено,ГП № 3-2025.pdf,open
+CONTR_553,,,contradicts,Отсутствие учета сейсмовзрывного воздействия на приконтурный массив в федеральных нормах и правилах.,ГП № 3-2025.pdf,open
+CONTR_554,,,contradicts,Различия в оценке сейсмовзрывного воздействия на здания и сооружения по разным методикам,ГП № 3-2025.pdf,open
+CONTR_555,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_556,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_557,,,contradicts,"Несмотря на определение сейсмобезопасного расстояния по распространенному на практике методу, следует ожидать возникновения частотного резонанса как в ближней зоне взрыва, так и в дальней зоне взрыва.",ГП № 3-2025.pdf,open
+CONTR_558,,,contradicts,Противоречие между производственными задачами и задачами обеспечения безопасности производства.,ГП № 3-2025.pdf,open
+CONTR_559,,,contradicts,Отсутствие учета амплитудно-частотных характеристик сейсмовзрывной волны в существующих критериях оценки сейсмовзрывного воздействия,ГП № 3-2025.pdf,open
+CONTR_560,,,contradicts,Сопоставление оценок анкетируемых и фактического уровня травматизма на Лучегорском угольном разрезе,ГП № 3-2025.pdf,open
+CONTR_561,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_562,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_563,,,contradicts,Отсутствие комплексной методологии оценки эффективности интеллектуальных систем управления с учетом специфических условий угольной промышленности,ГП № 3-2025.pdf,open
+CONTR_564,,,contradicts,Недостаточная изученность вопросов кибербезопасности интеллектуальных шахт и их устойчивости к внешним угрозам в условиях критической инфраструктуры,ГП № 3-2025.pdf,open
+CONTR_565,,,contradicts,Слабая проработка механизмов адаптации существующей регулятивной базы к требованиям автономных горнодобывающих систем,ГП № 3-2025.pdf,open
+CONTR_566,,,contradicts,Отсутствие системного понимания социально-экономических последствий автоматизации для трудовых ресурсов угольной отрасли,ГП № 3-2025.pdf,open
+CONTR_567,,,contradicts,Расхождение в представлениях о влиянии упорядоченности процессов на безопасность и производительность,ГП № 3-2025.pdf,open
+CONTR_568,,,contradicts,Различия в стратегиях и темпах внедрения цифровых технологий в угольной промышленности между странами.,ГП № 3-2025.pdf,open
+CONTR_569,,,contradicts,Нет противоречий в тексте,ГП № 3-2025.pdf,open
+CONTR_570,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_571,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_572,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_573,,,contradicts,Нет противоречий,ГП № 3-2025.pdf,open
+CONTR_574,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_575,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_576,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_577,,,contradicts,Несоответствие в темпах роста переработки и итоговом объёме производства золота,ГП № 3-2025.pdf,open
+CONTR_578,,,contradicts,Противоречие между высокой механизацией основных процессов и сохранением ручного труда на вспомогательных операциях,ГП № 3-2025.pdf,open
+CONTR_579,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_580,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_581,,,contradicts,,ГП № 3-2025.pdf,open
+CONTR_582,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_583,,,contradicts,"Традиционно геотехника рассматривалась как вспомогательная дисциплина, но сейчас она становится стратегическим фактором.",ГП № 4-2025.pdf,open
+CONTR_584,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_585,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_586,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_587,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_588,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_589,,,contradicts,"Существующие методы определения скорости детонации имеют недостатки, в то время как рефлектометрический метод выглядит перспективным.",ГП № 4-2025.pdf,open
+CONTR_590,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_591,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_592,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_593,,,contradicts,Отсутствие надежных данных о химическом составе топливной фазы и составе продуктов взрыва ЭВВ.,ГП № 4-2025.pdf,open
+CONTR_594,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_595,,,contradicts,"Неполноценное использование АСУ ГР может ограничить работу только сбором статистических данных, в то время как основной экономический эффект от внедрения АСУ ГР достигается именно за счет сценарного использования системы.",ГП № 4-2025.pdf,open
+CONTR_596,,,contradicts,Проблемы с использованием АСУ ГР,ГП № 4-2025.pdf,open
+CONTR_597,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_598,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_599,,,contradicts,Влияние человеческого фактора на эффективность взрывных работ,ГП № 4-2025.pdf,open
+CONTR_600,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_601,,,contradicts,Различия во взглядах на возможности отечественных производителей горного оборудования,ГП № 4-2025.pdf,open
+CONTR_602,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_603,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_604,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_605,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_606,,,contradicts,Вопросы выбора параметров связей конечной жёсткости и их калибровки остаются нерешёнными.,ГП № 4-2025.pdf,open
+CONTR_607,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_608,,,contradicts,Противоречий в тексте не обнаружено,ГП № 4-2025.pdf,open
+CONTR_609,,,contradicts,Проблемы с методической базой по проектированию вентиляции,ГП № 4-2025.pdf,open
+CONTR_610,,,contradicts,Противоречие в определении лобового аэродинамического сопротивления,ГП № 4-2025.pdf,open
+CONTR_611,,,contradicts,Различия в классификации аэродинамических сопротивлений в России и за рубежом,ГП № 4-2025.pdf,open
+CONTR_612,,,contradicts,"Сомнения в рекомендациях Руководства по проектированию вентиляции угольных шахт относительно величины общего шахтного аэродинамического сопротивления, обусловленного местными потерями",ГП № 4-2025.pdf,open
+CONTR_613,,,contradicts,Противоречие в классификации аэродинамических сопротивлений,ГП № 4-2025.pdf,open
+CONTR_614,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_615,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_616,,,contradicts,Двоякое мнение о цифровой трансформации в горно-металлургическом секторе,ГП № 4-2025.pdf,open
+CONTR_617,,,contradicts,Двойственная роль государственной политики в цифровой трансформации,ГП № 4-2025.pdf,open
+CONTR_618,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_619,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_620,,,contradicts,"Стандарт не является нормативно-правовым документом, но компании всё равно вносятся в базу данных ЭКГ-рейтинга по умолчанию.",ГП № 4-2025.pdf,open
+CONTR_621,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_622,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_623,,,contradicts,Отсутствие комплексного подхода для решения вопросов транспортного планирования,ГП № 4-2025.pdf,open
+CONTR_624,,,contradicts,Противоречие между высокой стоимостью и низкой надежностью теплоизоляционных материалов,ГП № 4-2025.pdf,open
+CONTR_625,,,contradicts,"Повышение температуры газов в цилиндре, вызванное теплоизолирующей вставкой, повышает полноту сгорания топлива, тем самым увеличивая эффективный КПД двигателя, но при этом происходит снижение коэффициента избытка воздуха",ГП № 4-2025.pdf,open
+CONTR_626,,,contradicts,Широкое распространение дизельных двигателей с частичной теплоизоляцией камеры сгорания сдерживается из-за большей стоимости и невысокой надежности материалов теплоизоляции,ГП № 4-2025.pdf,open
+CONTR_627,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_628,,,contradicts,Необходимость подбора материала с оптимальным сочетанием свойств и характеристик для теплоизоляции камеры сгорания,ГП № 4-2025.pdf,open
+CONTR_629,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_630,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_631,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_632,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_633,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_634,,,contradicts,Низкая эффективность очистки по взвешенным веществам,ГП № 4-2025.pdf,open
+CONTR_635,,,contradicts,Недостаточная эффективность очистки по органическим загрязнениям,ГП № 4-2025.pdf,open
+CONTR_636,,,contradicts,"Отсутствие эффекта очистки по нитратам, нитритам, железу общему, сульфатам, по хлоридам",ГП № 4-2025.pdf,open
+CONTR_637,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_638,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_639,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_640,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_641,,,contradicts,Противоречие между ожидаемым уменьшением потока газа при увеличении нагрузки и фактическим увеличением потока газа после достижения определенного давления.,ГП № 4-2025.pdf,open
+CONTR_642,,,contradicts,,ГП № 4-2025.pdf,open
+CONTR_643,,,contradicts,Нет противоречий,ГП № 4-2025.pdf,open
+CONTR_644,,,contradicts,Статистика Геологической службы США по добыче лития не всегда корректно интерпретируется,ГП № 4-2025.pdf,open
+CONTR_645,,,contradicts,Противоречие между стремлением Евросоюза к климатической нейтральности и необходимостью увеличения добычи лития в Португалии,ГП № 4-2025.pdf,open
+CONTR_646,,,contradicts,Низкая добыча лития в Португалии при относительно высоких запасах.,ГП № 4-2025.pdf,open
+CONTR_647,,,contradicts,"Португалия входит в перечень стран – производителей лития, но не является производителем «товарного» лития",ГП № 4-2025.pdf,open
+CONTR_648,,,contradicts,Противоречие между разработкой литиевых месторождений и экологическими требованиями,ГП № 4-2025.pdf,open
+CONTR_649,,,contradicts,Задержки в реализации проектов по разработке литиевых месторождений,ГП № 4-2025.pdf,open
+CONTR_650,,,contradicts,"Отсутствие единого мнения о том, какой ксантогенат следует использовать в тендерах",ГП № 5-2025.pdf,open
+CONTR_651,,,contradicts,Разрыв между пониманием проблемы на высшем государственном уровне и работой специалистов на местах,ГП № 5-2025.pdf,open
+CONTR_652,,,contradicts,"нет практики использования нового продукта, но есть успешные испытания",ГП № 5-2025.pdf,open
+CONTR_653,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_654,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_655,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_656,,,contradicts,Разные утверждения о повышении несущей способности закладочного материала при объемном сжатии,ГП № 5-2025.pdf,open
+CONTR_657,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_658,,,contradicts,Отсутствие адаптированных методик нормирования бульдозерных работ,ГП № 5-2025.pdf,open
+CONTR_659,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_660,,,contradicts,Методы численного моделирования для оценки сейсмического воздействия буровзрывных работ остаются недостаточно разработанными,ГП № 5-2025.pdf,open
+CONTR_661,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_662,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_663,,,contradicts,Сложность интерпретации и адаптации математических конструкций в рамках проблемной области,ГП № 5-2025.pdf,open
+CONTR_664,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_665,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_666,,,contradicts,Модели оптимизации не способны учесть все типы неопределенности и рисков недропользования.,ГП № 5-2025.pdf,open
+CONTR_667,,,contradicts,"Влияние негативных факторов взрыва является основным ограничивающим условием, препятствующим совмещению работ по монтажу солнечных панелей и эксплуатации в выработанном пространстве карьера созданных на их основе электростанций",ГП № 5-2025.pdf,open
+CONTR_668,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_669,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_670,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_671,,,contradicts,"В условиях обводненности КГШ на шахтных самосвалах лучше всего работают шины протекторного типа, а шины типа L5S более эффективны в том случае, если самосвал работает на одном горизонте и на коротких плечах",ГП № 5-2025.pdf,open
+CONTR_672,,,contradicts,Испытания FOPS по ГОСТ ISO 3449–2014 могут быть недостаточно строгими для реальных условий эксплуатации карьерной техники,ГП № 5-2025.pdf,open
+CONTR_673,,,contradicts,Тенденции производительности труда в угледобыче,ГП № 5-2025.pdf,open
+CONTR_674,,,contradicts,Снижение производства и потребления угля в США,ГП № 5-2025.pdf,open
+CONTR_675,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_676,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_677,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_678,,,contradicts,Противоречий в тексте не обнаружено,ГП № 5-2025.pdf,open
+CONTR_679,,,contradicts,Влияние температуры на потери от смерзания при выпуске руды,ГП № 5-2025.pdf,open
+CONTR_680,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_681,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_682,,,contradicts,Противоречия в оценке влияния температуры и влажности на потери руды при донном выпуске,ГП № 5-2025.pdf,open
+CONTR_683,,,contradicts,Различия в подходах к расчёту напряжений в массиве горных пород,ГП № 5-2025.pdf,open
+CONTR_684,,,contradicts,Различия в результатах осреднения по классическому пути решения проблемы и методу наименьших квадратов,ГП № 5-2025.pdf,open
+CONTR_685,,,contradicts,Противоречия в чувствительности к удару различных образцов эмульсионных взрывчатых веществ,ГП № 5-2025.pdf,open
+CONTR_686,,,contradicts,нет противоречий,ГП № 5-2025.pdf,open
+CONTR_687,,,contradicts,Противоречие в эффективности механизма кондуктивного разогрева пастообразных взрывчатых материалов при адиабатическом сжатии газовых полостей во время удара,ГП № 5-2025.pdf,open
+CONTR_688,,,contradicts,Физико-механические свойства хвостов переработки медно-порфировых руд месторождений Российской Федерации на момент проектирования не были изучены,ГП № 5-2025.pdf,open
+CONTR_689,,,contradicts,Противоречие в определении критического давления для инициирования взрыва ПЭВВ Березит®,ГП № 5-2025.pdf,open
+CONTR_690,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_691,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_692,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_693,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_694,,,contradicts,Нет противоречий,ГП № 5-2025.pdf,open
+CONTR_695,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_696,,,contradicts,Отсутствие адаптивных метрик для учёта специфических условий эксплуатации горного оборудования,ГП № 5-2025.pdf,open
+CONTR_697,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_698,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_699,,,contradicts,Освоение месторождений золота в Республике Тыва сдерживается комплексом факторов,ГП № 5-2025.pdf,open
+CONTR_700,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_701,,,contradicts,Противоречия в оценке прогнозных ресурсов,ГП № 5-2025.pdf,open
+CONTR_702,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_703,,,contradicts,Применение роботизированных горнотехнических систем и безлюдных технологий добычи полезных ископаемых порождает многочисленные проблемы и задачи.,ГП № 5-2025.pdf,open
+CONTR_704,,,contradicts,Отсутствие нормативной базы и несоответствие технологической среды могут сдерживать внедрение роботизированных технологий в горнодобывающей промышленности.,ГП № 5-2025.pdf,open
+CONTR_705,,,contradicts,Противоречие между необходимостью роботизации и сложностью внедрения на существующих предприятиях,ГП № 5-2025.pdf,open
+CONTR_706,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_707,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_708,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_709,,,contradicts,Отсутствие комплексной методологии оценки влияния цифровизации на трансформацию структуры трудовых ресурсов в специфических условиях угольной промышленности,ГП № 5-2025.pdf,open
+CONTR_710,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_711,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_712,,,contradicts,Технический потенциал струйного аппарата и патента [17] не раскрыт в полной мере.,ГП № 5-2025.pdf,open
+CONTR_713,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_714,,,contradicts,Несвоевременная остановка работы двигателей приводит к значительным затратам на капитальный ремонт.,ГП № 5-2025.pdf,open
+CONTR_715,,,contradicts,Различия в минерализации и дебите рассола в разных скважинах месторождения Сакар,ГП № 5-2025.pdf,open
+CONTR_716,,,contradicts,Влияние содержания элементов на работоспособность масла,ГП № 5-2025.pdf,open
+CONTR_717,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_718,,,contradicts,,ГП № 5-2025.pdf,open
+CONTR_719,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_720,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_721,,,contradicts,нет противоречий,ГП № 6-2025.pdf,open
+CONTR_722,,,contradicts,Разрыв между трехмерным моделированием и подготовкой итоговой графической документации на горнодобывающих предприятиях России.,ГП № 6-2025.pdf,open
+CONTR_723,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_724,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_725,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_726,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_727,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_728,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_729,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_730,,,contradicts,"Необходимость разработки современной методики оценки исчисления размера ущерба, наносимого промышленными объектами коренным народам",ГП № 6-2025.pdf,open
+CONTR_731,,,contradicts,"Противоречие в оценке ущерба, причиненного КМНС в результате хозяйственной деятельности предприятия",ГП № 6-2025.pdf,open
+CONTR_732,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_733,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_734,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_735,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_736,,,contradicts,Дефицит специалистов в минерально-сырьевом комплексе при недостаточном выпуске горных инженеров,ГП № 6-2025.pdf,open
+CONTR_737,,,contradicts,Разрыв между требованиями работодателей и уровнем подготовки выпускников по цифровым компетенциям,ГП № 6-2025.pdf,open
+CONTR_738,,,contradicts,Отсутствие объективных данных о соответствии квалификации выпускников требованиям цифровизированного производства,ГП № 6-2025.pdf,open
+CONTR_739,,,contradicts,Неразработанность методологии интеграции цифровых технологий в формирование практических навыков,ГП № 6-2025.pdf,open
+CONTR_740,,,contradicts,Недостаточное понимание механизмов взаимодействия вузов и предприятий,ГП № 6-2025.pdf,open
+CONTR_741,,,contradicts,Дефицит лонгитюдных исследований карьерных траекторий выпускников,ГП № 6-2025.pdf,open
+CONTR_742,,,contradicts,Разрыв между объемами подготовки специалистов и потребностями отрасли,ГП № 6-2025.pdf,open
+CONTR_743,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_744,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_745,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_746,,,contradicts,Противоречия в методах прогнозирования геодинамических явлений,ГП № 6-2025.pdf,open
+CONTR_747,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_748,,,contradicts,Сложности перевода графического языка схем и рисунков на язык программного обеспечения,ГП № 6-2025.pdf,open
+CONTR_749,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_750,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_751,,,contradicts,Отсутствие комплексной методологии оценки экономической эффективности,ГП № 6-2025.pdf,open
+CONTR_752,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_753,,,contradicts,"Снижение инвестиций в 2022 г. обусловлено макроэкономической нестабильностью и ростом себестоимости добычи, приведшими к сокращению инвестиционных программ 50% предприятий горно-металлургического комплекса.",ГП № 6-2025.pdf,open
+CONTR_754,,,contradicts,Различия в показателях эффективности внедрения IoT-решений,ГП № 6-2025.pdf,open
+CONTR_755,,,contradicts,Противоречие между ожиданиями значительного сокращения издержек и реальными результатами,ГП № 6-2025.pdf,open
+CONTR_756,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_757,,,contradicts,Реализация потенциала цифровой трансформации сталкивается с рядом серьезных барьеров,ГП № 6-2025.pdf,open
+CONTR_758,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_759,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_760,,,contradicts,Ограниченность метода дифференциальной спутниковой интерферометрии в районах с низкими скоростями смещений,ГП № 6-2025.pdf,open
+CONTR_761,,,contradicts,Отсутствие единой концепции формирования технологических процессов для реализации эколого-сбалансированных решений,ГП № 6-2025.pdf,open
+CONTR_762,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_763,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_764,,,contradicts,"Отсутствие систематических исследований, количественно оценивающих вклад отдельных компонентов цифровой инфраструктуры в совокупный экономический эффект.",ГП № 6-2025.pdf,open
+CONTR_765,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_766,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_767,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_768,,,contradicts,Нет противоречий,ГП № 6-2025.pdf,open
+CONTR_769,,,contradicts,Влияние загрязнения NOx на NPP,ГП № 6-2025.pdf,open
+CONTR_770,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_771,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_772,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_773,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_774,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_775,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_776,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_777,,,contradicts,Волатильность мирового рынка лития может негативно сказаться на экономике проекта.,ГП № 6-2025.pdf,open
+CONTR_778,,,contradicts,Удалённость месторождения как ограничительный фактор,ГП № 6-2025.pdf,open
+CONTR_779,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_780,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_781,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_782,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_783,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_784,,,contradicts,"Низкая плотность дорог сдерживает экономическое развитие, но автомобильный транспорт остаётся основным видом транспорта для грузо- и пассажироперевозок.",ГП № 6-2025.pdf,open
+CONTR_785,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_786,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_787,,,contradicts,Противоречий в тексте не обнаружено,ГП № 6-2025.pdf,open
+CONTR_788,,,contradicts,Не существует универсального решения для очистки сточных вод всех угледобывающих предприятий,ГП № 6-2025.pdf,open
+CONTR_789,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_790,,,contradicts,Отсутствие информации о конкретных экспертах,ГП № 6-2025.pdf,open
+CONTR_791,,,contradicts,Отсутствие однозначной корреляции между энергией источника и его спектральным составом,ГП № 6-2025.pdf,open
+CONTR_792,,,contradicts,null,ГП № 6-2025.pdf,open
+CONTR_793,,,contradicts,"Максимально возможная энергия события, рассчитанная по графику повторяемости, не учитывает блочную структуру массива",ГП № 6-2025.pdf,open
+CONTR_794,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_795,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_796,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_797,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_798,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_799,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_800,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_801,,,contradicts,Нет противоречий,ГП № 6-2025.pdf,open
+CONTR_802,,,contradicts,Недостаток исследований по построению фотограмметрических моделей в сложных условиях подземных горных выработок,ГП № 6-2025.pdf,open
+CONTR_803,,,contradicts,"Разные модели учитывают разные физические и геомеханические факторы, что приводит к различной чувствительности и форме кривых.",ГП № 6-2025.pdf,open
+CONTR_804,,,contradicts,Интенсивность воздействия на здания и сооружения не подчиняется известным закономерностям.,ГП № 6-2025.pdf,open
+CONTR_805,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_806,,,contradicts,Реальные фактические значения избыточного давления на фронте УВВ от массовых взрывов могут отличаться,ГП № 6-2025.pdf,open
+CONTR_807,,,contradicts,Различия в данных о разрушении стекол при взрыве,ГП № 6-2025.pdf,open
+CONTR_808,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_809,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_810,,,contradicts,Современные методики оценки действия сейсмовзрывных и ударных воздушных волн не учитывают их совместного действия.,ГП № 6-2025.pdf,open
+CONTR_811,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_812,,,contradicts,Противоречие между необходимостью публикации данных о месторождениях и законодательными ограничениями на их распространение,ГП № 6-2025.pdf,open
+CONTR_813,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_814,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_815,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_816,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_817,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_818,,,contradicts,,ГП № 6-2025.pdf,open
+CONTR_819,,,contradicts,Противоречия в оценке текущего состояния угольной отрасли и возможных путей её развития.,ГП № 2_2026_d.pdf,open
+CONTR_820,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_821,,,contradicts,Различия в прогнозах доли российского экспорта угля в международной торговле,ГП № 2_2026_d.pdf,open
+CONTR_822,,,contradicts,Противоречия в статье не указаны,ГП № 2_2026_d.pdf,open
+CONTR_823,,,contradicts,Противоречие между необходимостью развития угольной генерации и снижением её доли в топливном балансе.,ГП № 2_2026_d.pdf,open
+CONTR_824,,,contradicts,Нет противоречий в тексте,ГП № 2_2026_d.pdf,open
+CONTR_825,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_826,,,contradicts,Разные подходы к цифровизации в горнодобывающей промышленности,ГП № 2_2026_d.pdf,open
+CONTR_827,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_828,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_829,,,contradicts,Традиционный руководитель может не понимать принципов цифровой трансформации,ГП № 2_2026_d.pdf,open
+CONTR_830,,,contradicts,Специалисты по цифровой трансформации могут не иметь достаточного производственного опыта,ГП № 2_2026_d.pdf,open
+CONTR_831,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_832,,,contradicts,Проблема с контрафактными фильтрами,ГП № 2_2026_d.pdf,open
+CONTR_833,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_834,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_835,,,contradicts,Использование дизельного топлива в теплогенераторах не рекомендуется из-за нарушения санитарных требований.,ГП № 2_2026_d.pdf,open
+CONTR_836,,,contradicts,Устаревшие подходы к формированию отчетности сохраняются из-за ограниченности функциональных возможностей старой системы,ГП № 2_2026_d.pdf,open
+CONTR_837,,,contradicts,Ограниченность результатов исследования обобщёнными данными и неоднородностью социально-экономических и геоэкологических условий угледобывающих регионов,ГП № 2_2026_d.pdf,open
+CONTR_838,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_839,,,contradicts,Отсутствие единой системы понятий в области роботизации подземных горных работ.,ГП № 2_2026_d.pdf,open
+CONTR_840,,,contradicts,"Отсутствие единого подхода к трактованию терминов «робот», «роботизированный» применительно к технике и механизмам, применяемым в горном деле.",ГП № 2_2026_d.pdf,open
+CONTR_841,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_842,,,contradicts,Отсутствие комплексного подхода к оценке влияния технических приемов на эффективность и безопасность БВР,ГП № 2_2026_d.pdf,open
+CONTR_843,,,contradicts,Отсутствие численных расчетов по определению радиуса зоны интенсивного пылеобразования,ГП № 2_2026_d.pdf,open
+CONTR_844,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_845,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_846,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_847,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_848,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_849,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_850,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_851,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_852,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_853,,,contradicts,"Противоречие между нормативной базой, учитывающей только пиковые воздействия, и реальными эффектами вибрационного загрязнения.",ГП № 2_2026_d.pdf,open
+CONTR_854,,,contradicts,Спад добычи железных руд в России после 1990 года,ГП № 2_2026_d.pdf,open
+CONTR_855,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_856,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_857,,,contradicts,Противоречие между ускоряющимся спросом на критические минералы и замедляющимися темпами инвестиций в расширение предложения,ГП № 2_2026_d.pdf,open
+CONTR_858,,,contradicts,ограничение доступа к западным технологиям переработки сдерживает переход от экспорта концентратов к поставкам продукции глубокой переработки,ГП № 2_2026_d.pdf,open
+CONTR_859,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_860,,,contradicts,"Санкции ограничивают доступ к западным технологиям сепарации и рафинирования, что может привести к тому, что Россия останется поставщиком концентратов, а не продукции глубокой переработки.",ГП № 2_2026_d.pdf,open
+CONTR_861,,,contradicts,Противоречие между глобальным характером спроса и региональным характером предложения на ключевые минералы.,ГП № 2_2026_d.pdf,open
+CONTR_862,,,contradicts,Процесс цифровизации в российской горной промышленности сталкивается с рядом барьеров,ГП № 2_2026_d.pdf,open
+CONTR_863,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_864,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_865,,,contradicts,Стохастическое моделирование ценовой динамики более точно оценивает инвестиционную привлекательность горнодобывающих проектов по сравнению с методом дисконтированных денежных потоков (DCF).,ГП № 2_2026_d.pdf,open
+CONTR_866,,,contradicts,Стохастическое моделирование показывает более точную оценку NPV горнодобывающих проектов по сравнению с детерминированным методом DCF,ГП № 2_2026_d.pdf,open
+CONTR_867,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_868,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_869,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_870,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_871,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_872,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_873,,,contradicts,Отсутствие научного обоснования для длины рабочего участка струи гидромонитора и критериев отнесения пород к группам,ГП № 2_2026_d.pdf,open
+CONTR_874,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_875,,,contradicts,"Современные методы пока уступают традиционным по точности, но дают уникальную площадную интерпретацию смещений",ГП № 2_2026_d.pdf,open
+CONTR_876,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_877,,,contradicts,Нет противоречий,ГП № 2_2026_d.pdf,open
+CONTR_878,,,contradicts,Отсутствие методологии оценки технологической совместимости автоматизированных систем бурения с учетом специфики геомеханических параметров различных геологических формаций,ГП № 2_2026_d.pdf,open
+CONTR_879,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_880,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_881,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_882,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_883,,,contradicts,Парадокс роста операционных инвестиций при сжатии вложений в новые проекты,ГП № 2_2026_d.pdf,open
+CONTR_884,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_885,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_886,,,contradicts,Отсутствие противоречий,ГП № 2_2026_d.pdf,open
+CONTR_887,,,contradicts,Нет противоречий,ГП № 2_2026_d.pdf,open
+CONTR_888,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_889,,,contradicts,Противоречия между необходимостью декарбонизации и экономической стабильностью моноресурсных регионов,ГП № 2_2026_d.pdf,open
+CONTR_890,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_891,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_892,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_893,,,contradicts,Различные типы детекторов имеют свои преимущества и недостатки,ГП № 2_2026_d.pdf,open
+CONTR_894,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_895,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_896,,,contradicts,Разброс результатов испытаний образцов керна нарушенной породы с искусственной трещиной,ГП № 2_2026_d.pdf,open
+CONTR_897,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_898,,,contradicts,Теоретическое обоснование факторинга как механизма стабилизации операционного цикла горнодобывающих предприятий в условиях сырьевой волатильности остаётся фрагментарным.,ГП № 2_2026_d.pdf,open
+CONTR_899,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_900,,,contradicts,Низкий уровень цифровизации финансового управления в горнодобывающей отрасли России,ГП № 2_2026_d.pdf,open
+CONTR_901,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_902,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_903,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_904,,,contradicts,,ГП № 2_2026_d.pdf,open
+CONTR_905,,,contradicts,"Различия в стратегиях США, ЕС и Китая по добыче и переработке критических минералов",ГП № 2_2026_d.pdf,open
+CONTR_906,,,contradicts,Парадокс диверсификации: рост концентрации параллельно с увеличением числа стратегических инициатив.,ГП № 2_2026_d.pdf,open
+CONTR_907,,,contradicts,Парадокс диверсификации,ГП № 2_2026_d.pdf,open
+CONTR_908,,,contradicts,"Прогнозный дефицит лития в базовом сценарии достигает 37,9% к 2035 г.",ГП № 2_2026_d.pdf,open
+CONTR_909,,,contradicts,"Санкции стали ключевым экзогенным фактором, который трансформировал традиционные взаимосвязи между добывающим и перерабатывающим секторами российской экономики.",ГП № 2_2026_d.pdf,open
+CONTR_910,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_911,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_912,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_913,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_914,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_915,,,contradicts,Переработка фосфогипса может быть направлена на производство строительных материалов или редких земель.,ГП №1_2026_d.pdf,open
+CONTR_916,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_917,,,contradicts,Отсутствие правовой легитимности использования БВС в маркшейдерской деятельности на открытых горных работах.,ГП №1_2026_d.pdf,open
+CONTR_918,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_919,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_920,,,contradicts,"Отсутствие нормативно-технического документа, устанавливающего требования и методику проведения маркшейдерских работ и измерений с использованием БПЛА на открытых горных работах в Российской Федерации.",ГП №1_2026_d.pdf,open
+CONTR_921,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_922,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_923,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_924,,,contradicts,"При толщине теплоизолирующей породной сыпучей отсыпки 2 м температура на контакте теплоизолирующий экран–намороженный лёд к концу летнего периода превышает температуру фазовых переходов влаги, что приводит к протаиванию намороженного ЛМ.",ГП №1_2026_d.pdf,open
+CONTR_925,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_926,,,contradicts,Противоречие между декларируемыми принципами горнодобывающих предприятий и их практической реализацией.,ГП №1_2026_d.pdf,open
+CONTR_927,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_928,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_929,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_930,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_931,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_932,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_933,,,contradicts,Отсутствие законодательного определения понятий сверхмалое и малое угольное предприятие,ГП №1_2026_d.pdf,open
+CONTR_934,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_935,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_936,,,contradicts,"Несмотря на высокую ценность титаномагнетитовых руд, процесс извлечения полезных компонентов сталкивается с рядом сложностей.",ГП №1_2026_d.pdf,open
+CONTR_937,,,contradicts,"Риски, связанные с созданием и работой нового микроразреза",ГП №1_2026_d.pdf,open
+CONTR_938,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_939,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_940,,,contradicts,"Традиционные методы определения размеров камер не учитывают изменчивости геологических, геомеханических и экономических параметров",ГП №1_2026_d.pdf,open
+CONTR_941,,,contradicts,Нет противоречий,ГП №1_2026_d.pdf,open
+CONTR_942,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_943,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_944,,,contradicts,Нет противоречий,ГП №1_2026_d.pdf,open
+CONTR_945,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_946,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_947,,,contradicts,Ограниченность работ по применению CNN для анализа гиперспектральных данных в минеральной разведке для медно-никелевых сульфидных месторождений арктической зоны,ГП №1_2026_d.pdf,open
+CONTR_948,,,contradicts,Необходимость адаптации топливных элементов к экстремальным условиям,ГП №1_2026_d.pdf,open
+CONTR_949,,,contradicts,Нет противоречий,ГП №1_2026_d.pdf,open
+CONTR_950,,,contradicts,Нет противоречий,ГП №1_2026_d.pdf,open
+CONTR_951,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_952,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_953,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_954,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_955,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_956,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_957,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_958,,,contradicts,"Имеются условия, при которых показатели трещиноватости массива горных пород не всегда коррелируют с показателем RQD.",ГП №1_2026_d.pdf,open
+CONTR_959,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_960,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_961,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_962,,,contradicts,Нет противоречий,ГП №1_2026_d.pdf,open
+CONTR_963,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_964,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_965,,,contradicts,Отсутствие систематизированных данных по влиянию геометрии режущих элементов на эффективность процесса фрезерования,ГП №1_2026_d.pdf,open
+CONTR_966,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_967,,,contradicts,Расчетные значения выхода машин из строя оказываются меньше фактических,ГП №1_2026_d.pdf,open
+CONTR_968,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_969,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_970,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_971,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_972,,,contradicts,,ГП №1_2026_d.pdf,open
+CONTR_973,,,contradicts,Противоречие между экономической целесообразностью и технической осуществимостью при разработке многослойных залежей,ГП №1_2026_d.pdf,open

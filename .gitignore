@@ -1,0 +1,10 @@
+# секреты / окружение
+.env
+*.env
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# промежуточные выгрузки
+cross_document_links.json
