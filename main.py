@@ -14,10 +14,10 @@ import logging
 
 from neo4j import GraphDatabase
 
-from .config import ImportConfig, Neo4jConfig, YandexConfig
-from .embedder import YandexEmbedder
-from .importer import GraphImporter
-from .search import semantic_search
+from config import ImportConfig, Neo4jConfig, YandexConfig
+from embedder import YandexEmbedder
+from importer import GraphImporter
+from search import semantic_search
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 logger = logging.getLogger(__name__)

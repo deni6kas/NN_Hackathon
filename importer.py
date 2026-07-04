@@ -9,7 +9,7 @@ from typing import Iterable, List
 import pandas as pd
 from neo4j import Driver
 
-from .embedder import DOCUMENT, YandexEmbedder
+from embedder import DOCUMENT, YandexEmbedder
 
 logger = logging.getLogger(__name__)
 

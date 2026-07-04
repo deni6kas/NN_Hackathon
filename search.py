@@ -8,7 +8,7 @@ from typing import List, Optional
 
 from neo4j import Driver
 
-from .embedder import QUERY, YandexEmbedder
+from embedder import QUERY, YandexEmbedder
 
 logger = logging.getLogger(__name__)
 
